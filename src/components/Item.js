@@ -15,6 +15,7 @@ export default function Item(props) {
 
   return (
     <div className='item-wrapper'>
+      <h1>ITEM PAGE HERE WOOOHOOOO!!!!!</h1>
       <div className='item-header'>
         <div className='image-wrapper'>
           <img src={item.imageUrl} alt={item.name} />
